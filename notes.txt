@@ -1,0 +1,9 @@
+** \0 in the end of the string tells c that this is the end of the string, the next piece of memory you can store something else there.
+Is not mandatory You only can count the characters if you have this.
+
+
+-- every character is byte?
+
+-- You can only have array of tghe same type?
+
+-- seems like strings is arrays.
